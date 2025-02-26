@@ -16,8 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Features
-In this app we can add our new task.
-we can mark it as done
-we can delete our task too.
+- In this app we can add our new task.
+- we can mark it as done
+- we can delete our task too.
 
 
